@@ -2,6 +2,8 @@
 
  Aspiring Software Engineer | Full-stack + AI Systems | Game Dev with Godot  
  #MAD #ETTU
+ Just me ...
+ https://github.com/SonponYe-shuaChief/SonponYe-shuaChief/blob/main/sonpon-ye-shua-chief-cv.pdf
 
 
 ---
