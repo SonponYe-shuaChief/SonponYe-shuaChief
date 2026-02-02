@@ -44,7 +44,7 @@
 
 ## 📫 Connect With Me  
 
-- LinkedIn: [linkedin.com/in/sonponyeshua](https://linkedin.com/in/sonponyeshua)  
+- LinkedIn: www.linkedin.com/in/ye-shua-sonpon](www.linkedin.com/in/ye-shua-sonpon)  
 - Twitter/X: I just can't with this app.. I have no idea why
 - Portfolio: [coming soon 🚀].. small time
 
