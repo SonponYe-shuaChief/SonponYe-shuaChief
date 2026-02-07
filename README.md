@@ -18,34 +18,34 @@
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 - **Frontend**: React, Next.js, TailwindCSS  
 - **Backend**: Node.js (Express),
-- **Databases**: PostgreSQL, MongoDB, Redis  
+- **Databases**: PostgreSQL, MongoDB
 - **AI/ML**: OpenAI,TensorFlow Lite  
 
 
 ---
 
-## 🔗 Featured I am working on
+## 🔗 Projects I am working on
 
-- 🎓 [Project Armin](#) – Upload PDFs → get summaries + quizzes (Coming soon) 
-- 🎮 [Godot AI Game](#) – Adaptive difficulty 2D game (Coming soon)
+-  [Project Armin](#) – Upload PDFs → get summaries + quizzes (Coming soon) 
+-  [Godot AI Game](#) – Adaptive difficulty 2D game (Coming soon)
 
 ---
 
-## 🌱 Currently Learning  
+##  Currently Learning  
 - Systems design for scalable apps  
 - AI integration in full-stack systems  
 - Securing systems  
 
 ---
 
-## 📫 Connect With Me  
+##  Connect With Me  
 
 - LinkedIn:Connect with me and let's vibe(www.linkedin.com/in/ye-shua-sonpon)  
 - Twitter/X: I just can't with this app.. I have no idea why
-- Portfolio: [coming soon 🚀].. small time
+- Portfolio: [coming soon ].. small time
 
 ---
