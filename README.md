@@ -2,7 +2,7 @@
 
  Aspiring Software Engineer | Full-stack + AI Systems | Game Dev with Godot  
  #MAD #ETTU
- Just me ...
+
 
 
  
@@ -11,7 +11,7 @@
 
 ---
 
-## 📊 GitHub Metrics & Stats  
+##  GitHub Metrics & Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonponYe-shuaChief&show_icons=true&theme=radical)  
 
@@ -23,9 +23,9 @@
 
 ##  Tech Stack  
 
-- **Frontend**: React, Next.js, TailwindCSS  
+- **Frontend**: React, Next.js, TailwindCSS 
 - **Backend**: Node.js (Express),
-- **Databases**: PostgreSQL, MongoDB
+- **Databases**: PostgreSQL, MongoDB , supabase
 - **AI/ML**: OpenAI,TensorFlow Lite  
 
 
@@ -41,7 +41,8 @@
 ##  Currently Learning  
 - Systems design for scalable apps  
 - AI integration in full-stack systems  
-- Securing systems  
+- Securing systems
+- Game developement 
 
 ---
 
