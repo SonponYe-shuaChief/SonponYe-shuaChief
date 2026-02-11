@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Sonpon Ye-shua Chief  
+# Hi, I'm Sonpon Ye-shua Chief  
 
- Aspiring Software Engineer | Full-stack + AI Systems | Game Dev with Godot  
+ Aspiring Software Engineer | Full-stack + AI Systems | Game Development with Godot  
  #MAD #ETTU
 
 
