@@ -13,7 +13,7 @@
 
 ##  GitHub Metrics & Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonponYe-shuaChief&show_icons=true&theme=radical)  
+  Down for some reason ... coming soon.. Also its not impressive 
 
 
 ---
