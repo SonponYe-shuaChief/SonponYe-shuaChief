@@ -11,18 +11,7 @@
 
 ---
 
-##  GitHub Metrics & Stats  
 
-
-
-<div align="center">
-  <!-- Main stats card: commits, stars, PRs, contributions, etc. -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SonponYe-shuaChief&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="SonponYe-shuaChief's GitHub Stats" width="48%" />
-
-<div align="center" style="margin-top: 20px;">
-  <!-- Contribution streak (that flame graph vibe) -->
-  <img src="https://streak-stats.demolab.com/?user=SonponYe-shuaChief&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
 
 
 ---
