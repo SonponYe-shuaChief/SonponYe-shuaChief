@@ -13,15 +13,11 @@
 
 ##  GitHub Metrics & Stats  
 
-## GitHub Metrics & Stats
+
 
 <div align="center">
   <!-- Main stats card: commits, stars, PRs, contributions, etc. -->
   <img src="https://github-readme-stats.vercel.app/api?username=SonponYe-shuaChief&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="SonponYe-shuaChief's GitHub Stats" width="48%" />
-
-  <!-- Top languages card: shows your most used langs with nice bars -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonponYe-shuaChief&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css,tex" alt="Top Languages" width="48%" />
-</div>
 
 <div align="center" style="margin-top: 20px;">
   <!-- Contribution streak (that flame graph vibe) -->
