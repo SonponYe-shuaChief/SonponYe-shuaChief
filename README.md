@@ -1,6 +1,8 @@
 # Hi, I'm Sonpon Ye-shua Chief  
 
  Aspiring Software Engineer | Full-stack + AI Systems | Game Development with Godot | Systems Deigner
+
+ 
  #MAD #ETTU
 
 
