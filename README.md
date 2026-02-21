@@ -1,6 +1,6 @@
 # Hi, I'm Sonpon Ye-shua Chief  
 
- Aspiring Software Engineer | Full-stack + AI Systems | Game Development with Godot | Systems Designer & Developer
+ Aspiring Software Engineer | Full-stack + AI Systems | Game Developer| Systems Designer & Developer
 
  
  #MAD #ETTU
@@ -26,7 +26,7 @@ Imagine you are thinking inside the box... How would you know??
 
 ---
 
-## 🔗 Projects I am working on
+## 🔗 Projects I am working on currently
 
 -  [Project Armin](#) – Upload PDFs → get summaries + quizzes (Coming soon) 
 -  [Godot AI Game](#) – Adaptive difficulty 2D game (Coming soon)
