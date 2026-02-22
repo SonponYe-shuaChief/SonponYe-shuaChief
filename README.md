@@ -48,3 +48,7 @@ Imagine you are thinking inside the box... How would you know??
 - Portfolio: [coming soon ].. small time
 
 ---
+
+
+Its kind of funny isn't it .... Dedicating your life to this??
+Very odd???
