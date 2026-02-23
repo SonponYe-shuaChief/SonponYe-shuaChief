@@ -45,7 +45,7 @@ Imagine you are thinking inside the box... How would you know??
 
 - LinkedIn:Connect with me and let's vibe(www.linkedin.com/in/ye-shua-sonpon)  
 - Twitter/X: I just can't with this app.. I have no idea why
-- Portfolio: [coming soon ].. small time
+- Portfolio: https://vercel.com/sonpon-ye-shuas-projects?repo=https://github.com/SonponYe-shuaChief/new-portfolio
 
 ---
 
