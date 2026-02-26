@@ -35,9 +35,10 @@ Imagine you are thinking inside the box... How would you know??
 
 ##  Currently Learning  
 - Systems design for scalable apps  
-- AI integration in full-stack systems  
+- AI integration in full-stack systems 
 - Securing systems
-- Game developement 
+- Game developement
+- Real world applications of skills...(I know it sounds funny but I am serious)
 
 ---
 
