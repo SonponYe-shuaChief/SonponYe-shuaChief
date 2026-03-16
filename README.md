@@ -26,6 +26,16 @@ Imagine you are thinking inside the box... How would you know??
 
 ---
 
+##  GitHub Metrics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonponYe-shuaChief&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SonponYe-shuaChief&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SonponYe-shuaChief&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 ## 🔗 Projects I am working on currently
 
 -  [Project Armin](#) – Upload PDFs → get summaries + quizzes (Coming soon) 
