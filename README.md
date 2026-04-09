@@ -1,6 +1,6 @@
 # Hi, I'm Sonpon Ye-shua Chief  
 
- Aspiring Software Engineer | Full-stack + AI Systems | Game Developer| Systems Designer & Developer
+ Aspiring Software Engineer |UI/UX designer| Full-stack + AI Systems | Game Developer| Systems Designer & Developer
 
  
  #MAD #ETTU
@@ -26,7 +26,7 @@ Imagine you are thinking inside the box... How would you know??
 
 ---
 
-
+-------------------------------------------------------------------------------------------------------------------------------------
 ---
 
 ## 🔗 Projects I am working on currently
